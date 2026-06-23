@@ -1,0 +1,4 @@
+python-telegram-bot==20.8
+playwright==1.42.0
+nest-asyncio
+Flask
